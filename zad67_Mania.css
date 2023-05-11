@@ -1,0 +1,36 @@
+p.first::first-letter{
+    font-size: 113pt;
+    color: blue
+    }
+    p.first{
+    font-size: 21pt;
+    color: red
+    }
+    
+    p.second::first-letter{
+    font-size: 113 pt;
+    color: blue;
+    }
+    p.second{
+    font-size: 18pt;
+    color: red;    
+    }
+    h1::first-letter{
+    font-size: 140pt;
+    color: red;
+    }
+    h1{
+    font-size: 35pt;
+    color:blue;
+    }
+    p.third::first-letter{
+    font-size: 100pt;
+    }
+    p.third::first-line{
+        color:red;
+        font-size: 18pt;
+    }
+    p.third{
+    font-size: 30pt;
+    color:darkmagenta;
+    }

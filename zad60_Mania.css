@@ -1,0 +1,19 @@
+/* hover -> po najechaniu myszką na obiekt, zmienia się on zgodnie z plikiem css
+   Mania Wiktor*/
+
+   div{
+    width: 614px;
+    background-color: green;
+    }
+    div#block1_Mania:hover{
+    background-color: yellow;
+    font-size: 21mm;
+    }
+    div#block2_Mania:hover{
+    background-color: silver;
+    font-size: 21mm;
+    }
+    div#block3_Mania:hover{
+    background-color: blue;
+    font-size: 21mm;
+    }
